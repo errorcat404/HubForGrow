@@ -1,4 +1,3 @@
-    // Карта текстов и соответствующих ссылок
 const linkMap = {
   "Work": "https://1kittyka1.github.io/work2grow/",
   "Build": "https://build.com",
@@ -15,21 +14,21 @@ const linkMap = {
   "Sport": "https://yarikzxcvbnzxcvbn.github.io/sport2grow/"
 };
 
-  // Ищем все элементы .dot-label внутри .side-labels
-  document.querySelectorAll('.side-labels .dot-label').forEach(label => {
-    // Находим текст до .dot
-    const textNode = Array.from(label.childNodes).find(node => node.nodeType === Node.TEXT_NODE);
-    const text = textNode?.textContent.trim();
+// Ищем все элементы .dot-label внутри .side-labels
+document.querySelectorAll('.side-labels .dot-label').forEach(label => {
+  // Находим текст до .dot
+  const textNode = Array.from(label.childNodes).find(node => node.nodeType === Node.TEXT_NODE);
+  const text = textNode?.textContent.trim();
 
-    if (text && linkMap[text]) {
-      const link = document.createElement('a');
-      link.href = linkMap[text];
-      link.textContent = text;
-      link.style.textDecoration = 'none';
-      link.style.color = 'inherit';
+  if (text && linkMap[text]) {
+    const link = document.createElement('a');
+    link.href = linkMap[text];
+    link.textContent = text;
+    link.style.textDecoration = 'none';
+    link.style.color = 'inherit';
 
-      // Вставляем ссылку вместо обычного текста
-      label.insertBefore(link, textNode);
-      label.removeChild(textNode);
-    }
-  });
+    // Вставляем ссылку вместо обычного текста
+    label.insertBefore(link, textNode);
+    label.removeChild(textNode);
+  }
+});
