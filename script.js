@@ -9,7 +9,7 @@
     "Coding": "https://arsdim.github.io/Test/",
     "Game": "https://vuiacheslav.github.io/game_to_grow/",
     "Act": "https://vov4ik23.github.io/act2grow-/",
-    "Dream": "https://dream.com",
+    "Dream": "https://neswwex.github.io/Live2Grow/",
     "Think": "https://godlik48.github.io/Think2Grow/",
     "Live": "https://neswwex.github.io/Live2Grow/",
     "Sport" "yarikzxcvbnzxcvbn.github.io/sport2grow/"
