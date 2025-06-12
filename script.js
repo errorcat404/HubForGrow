@@ -2,7 +2,7 @@
   const linkMap = {
     "Work": "https://work.com",
     "Build": "https://build.com",
-    "Book": "https://book.com",
+    "Read": "https://errorcat404.github.io/read2grow/",
     "Mistakes": "https://mistakes.com",
     "Grow": "https://grow.com",
     "Work hard": "https://workhard.com",
