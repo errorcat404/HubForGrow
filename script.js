@@ -12,7 +12,7 @@
     "Dream": "https://neswwex.github.io/Live2Grow/",
     "Think": "https://godlik48.github.io/Think2Grow/",
     "Live": "https://neswwex.github.io/Live2Grow/",
-    "Sport" "yarikzxcvbnzxcvbn.github.io/sport2grow/"
+    "Sport": "yarikzxcvbnzxcvbn.github.io/sport2grow/"
   };
 
   // Ищем все элементы .dot-label внутри .side-labels
