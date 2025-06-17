@@ -99,6 +99,9 @@ body {
   margin: 10px;
   
 }
+.side-labels{
+  align-items: right;
+} 
 
 .goal-labels {
   grid-column: 1;
