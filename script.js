@@ -1,11 +1,11 @@
 const linkMap = {
   "Work": "https://1kittyka1.github.io/work2grow/",
-  "Build": "https://build.com",
+  "Build": "https://sodovaya-source.github.io/gus333/",
   "Read": "https://errorcat404.github.io/read2grow/",
   "Mistakes": "https://shavuha112.github.io/M2G/",
   "Grow": "https://sad12knof.github.io/grow2grow/",
   "Work hard": "https://kst918.github.io/work-hard2grow/",
-  "Coding": "https://arsdim.github.io/Test/",
+  "Coding": "https://alexmach0109.github.io/coding.github.io/",
   "Game": "https://vuiacheslav.github.io/game_to_grow/",
   "Act": "https://vov4ik23.github.io/act2grow-/",
   "Dream": "https://nastygrusha31.github.io/Dream2Grow/",
