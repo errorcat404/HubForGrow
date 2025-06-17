@@ -1,5 +1,5 @@
 const linkMap = {
-  "Work": "https://1kittyka1.github.io/work2grow/",
+  "Work": "https://1kittyka1.github.io/work2grow./",
   "Build": "https://sodovaya-source.github.io/gus333/",
   "Read": "https://errorcat404.github.io/read2grow/",
   "Mistakes": "https://shavuha112.github.io/M2G/",
