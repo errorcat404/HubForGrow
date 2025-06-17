@@ -8,7 +8,7 @@ const linkMap = {
   "Coding": "https://arsdim.github.io/Test/",
   "Game": "https://vuiacheslav.github.io/game_to_grow/",
   "Act": "https://vov4ik23.github.io/act2grow-/",
-  "Dream": "https://neswwex.github.io/Live2Grow/",
+  "Dream": "https://nastygrusha31.github.io/Dream2Grow/",
   "Think": "https://godlik48.github.io/Think2Grow/",
   "Live": "https://neswwex.github.io/Live2Grow/",
   "Sport": "https://yarikzxcvbnzxcvbn.github.io/sport2grow/"
