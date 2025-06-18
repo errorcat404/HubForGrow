@@ -8,7 +8,7 @@ body {
 
 .container {
   width: 100vw;
-  height: 100vh;
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -81,16 +81,10 @@ body {
   font-weight: bold;
   font-size: 20px;
   text-align: center;
-  transition: transform 0.3s ease;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
   cursor: default;
-}
-
-.center-circle:hover {
-  transform: translate(-50%, -50%) scale(1.5);
 }
 
 .goal-labels, .options-labels, .reality-labels, .will-labels {
@@ -98,7 +92,6 @@ body {
   flex-direction: column;
   gap: 10px;
   margin: 10px;
-  
 }
 
 .goal-labels {
@@ -106,6 +99,7 @@ body {
   grid-row: 1;
   align-self: center;
   justify-self: center;
+  margin-top: 40px;
 }
 
 .options-labels {
@@ -113,6 +107,7 @@ body {
   grid-row: 2;
   align-self: center;
   justify-self: center;
+  margin-bottom: 40px;
 }
 
 .reality-labels {
@@ -120,6 +115,7 @@ body {
   grid-row: 1;
   align-self: center;
   justify-self: center;
+  margin-top: 65px;
 }
 
 .will-labels { 
@@ -127,6 +123,7 @@ body {
   grid-row: 2;
   align-self: center;
   justify-self: center;
+  margin-bottom: 70px;
 }
 
 .dot-label {
